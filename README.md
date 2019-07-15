@@ -1,6 +1,8 @@
 # Large-scale Hierarchical Alignment
 
-![Large-scale Hierarchical Alignment](lha.png?raw=true | width=300)
+<!-- ![Large-scale Hierarchical Alignment](lha.png?raw=true | width=300) -->
+<img src="./lha.png" width="800" >
+
 
 This code implements large-scale hierarchical alignment from the paper
 [Large-scale Hierarchical Alignment for Data-driven Text Rewriting](https://arxiv.org/abs/1810.08237),
