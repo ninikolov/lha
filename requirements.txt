@@ -1,0 +1,13 @@
+annoy
+nltk
+gensim
+sklearn
+linecache_light
+coloredlogs
+scipy
+numpy
+matplotlib
+tqdm
+distance
+langdetect
+cPickle
